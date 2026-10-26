@@ -1,0 +1,4 @@
+# Distribution-only repository: never track application files or local assets.
+*
+!.gitignore
+!README.md
