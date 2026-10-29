@@ -6,11 +6,16 @@ distribuzione; non contiene il codice sorgente della Suite o dell'app.
 
 ## Scarica l'app
 
-**Versione pilota 0.1.1 (4)**. Richiede **Android 10 o successivo**.
+**Versione pilota 0.1.2 (5)**. Richiede **Android 10 o successivo**.
 
-[Scarica l'APK](https://github.com/Schiumy89/T4S-in-Cloud-Android/releases/download/android-v0.1.1-build4/t4s-in-cloud-0.1.1-4.apk)
+[Scarica l'APK](https://github.com/Schiumy89/T4S-in-Cloud-Android/releases/download/android-v0.1.2-build5/t4s-in-cloud-0.1.2-5.apk)
 
-[Note di rilascio e checksum](https://github.com/Schiumy89/T4S-in-Cloud-Android/releases/tag/android-v0.1.1-build4)
+[Note di rilascio e checksum](https://github.com/Schiumy89/T4S-in-Cloud-Android/releases/tag/android-v0.1.2-build5)
+
+Questa versione migliora il recupero della sessione protetta. Se richiesto,
+usa la verifica di sblocco con il codice del telefono nella schermata Android.
+Non cancellare i dati dell'app e non disinstallarla per risolvere l'errore.
+La scadenza della sessione e le verifiche di sicurezza Suite restano attive.
 
 Il download non richiede un account GitHub. Per utilizzare le funzioni
 personali dell'app serve un account Suite autorizzato: scaricare l'APK
@@ -32,10 +37,10 @@ procedere, per preservare i dati locali.
 
 Package: `com.time4stream.incloud`.
 
-SHA-256 di `t4s-in-cloud-0.1.1-4.apk`:
+SHA-256 di `t4s-in-cloud-0.1.2-5.apk`:
 
 ```text
-98511ef82f6cfd846382760bb6929a686edcc97682d5a4de9999224ad2e0a8a5
+e5d69ea6f6d97ea77a801a9b7f2377b175f9b9ecf9f6c69dfad3f6f77779b98c
 ```
 
 Il file `SHA256SUMS.txt` nella release permette di verificare il download.
